@@ -1,0 +1,3 @@
+rootProject.name = "androidAnimator"
+include ':androidAnimator'
+include ':androidAnimator'

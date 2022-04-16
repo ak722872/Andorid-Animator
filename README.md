@@ -6,7 +6,8 @@ By This Andorid Library You Can Animate Your Simple Bottomsheet Dialogs, Popup D
 You Can Also Animate Your Layouts Such As Linear Layout, ImageView,Button and many more Layouts.
 
 
-
+...
 function test() {
   console.log("notice the blank line before this function?");
 }
+...
